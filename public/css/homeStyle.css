@@ -1,0 +1,40 @@
+.carousel-item{
+  height: 55rem;
+  background: black;
+  color: white;
+  position: relative;
+}
+
+.border-bottom{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: black;
+  border-bottom-style: solid;
+}
+
+.ovelayImange{
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pdF{
+  padding-top: 30%;
+  padding-bottom: 30%;
+}
+
+.containerC{
+  position: absolute;
+  background-size: cover;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 6%;
+}

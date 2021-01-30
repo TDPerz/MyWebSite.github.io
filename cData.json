@@ -1,0 +1,48 @@
+{
+    "news": {
+        "Name":"News",
+        "postn": [
+            {
+                "img": "https://wow.zamimg.com/uploads/blog/images/20516-afterlives-ardenweald-4k-desktop-wallpapers.jpg",
+                "titulo": "Proyecto 1",
+                "Description": "Que es lo que hace esto?",
+                "Enlace":"Enlace"
+            },
+            {
+                "img": "https://hipertextual.com/files/2013/11/Wallpaper-Monta%C3%B1as.jpg",
+                "titulo": "Proyecto 2",
+                "Description": "Que es lo que hace esto?",
+                "Enlace":"Enlace"
+            },
+            {
+                "img": "https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg",
+                "titulo": "Proyecto 3",
+                "Description": "Que es lo que hace esto?",
+                "Enlace":"Enlace"
+            }
+        ],
+        "About":"Esta pagia esta de prueva nadamas para ver que hay con esto",
+        "Contact":"Contactanos"
+    },
+    "chickens": {
+        "name": "Chickens",
+        "subscribers": 23956,
+        "description": "A place to post your photos, video and questions about chickens!",
+        "posts": [
+            {
+                "title": "Naughty chicken hid under a shed for 3 weeks and came home with 14 chicks today!",
+                "author": "joeextreme",
+                "img": "https://preview.redd.it/sja35au7whd51.jpg?width=640&crop=smart&auto=webp&s=c39f8a99896b55fafc5d0ed882040a963ca54409"
+            },
+            {
+                "title": "Had to kill my first chicken today. Does it get any easier?",
+                "author": "sad boi"
+            },
+            {
+                "title": "My five year old chicken set and hatched one baby. I guess she wanted to be a mama one more time.",
+                "author": "tammythetiger",
+                "img": "https://preview.redd.it/lervkuis3me51.jpg?width=640&crop=smart&auto=webp&s=6a18ab3c4daa80eccf3449217589b922fa443946"
+            }
+        ]
+    }
+}
